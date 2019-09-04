@@ -1,0 +1,13 @@
+C:\Users\kyle6\source\repos\WindowsApp5\WindowsApp5\bin\Debug\Classic Snake.exe.config
+C:\Users\kyle6\source\repos\WindowsApp5\WindowsApp5\bin\Debug\Classic Snake.exe
+C:\Users\kyle6\source\repos\WindowsApp5\WindowsApp5\bin\Debug\Classic Snake.pdb
+C:\Users\kyle6\source\repos\WindowsApp5\WindowsApp5\bin\Debug\Classic Snake.xml
+C:\Users\kyle6\source\repos\WindowsApp5\WindowsApp5\obj\Debug\WindowsApp5.Resources.resources
+C:\Users\kyle6\source\repos\WindowsApp5\WindowsApp5\obj\Debug\Classic Snake.vbproj.GenerateResource.Cache
+C:\Users\kyle6\source\repos\WindowsApp5\WindowsApp5\obj\Debug\Classic Snake.vbproj.CoreCompileInputs.cache
+C:\Users\kyle6\source\repos\WindowsApp5\WindowsApp5\obj\Debug\Classic Snake.exe
+C:\Users\kyle6\source\repos\WindowsApp5\WindowsApp5\obj\Debug\Classic Snake.xml
+C:\Users\kyle6\source\repos\WindowsApp5\WindowsApp5\obj\Debug\Classic Snake.pdb
+C:\Users\kyle6\source\repos\WindowsApp5\WindowsApp5\obj\Debug\Classic Snake.vbprojResolveAssemblyReference.cache
+C:\Users\kyle6\source\repos\WindowsApp5\WindowsApp5\obj\Debug\WindowsApp5.frmSnake.resources
+C:\Users\kyle6\source\repos\WindowsApp5\WindowsApp5\obj\Debug\WindowsApp5.frmStart.resources
